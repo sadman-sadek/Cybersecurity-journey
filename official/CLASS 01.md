@@ -25,8 +25,6 @@ between networks.
 
 # NETWORK SECURITY
 
-# Network Security
-
 ## Definition
 Network Security is the practice of protecting network devices,
 data, and communication from unauthorized access, attacks,
@@ -38,7 +36,7 @@ modification, and disruption.
 - Availability – keep systems and services accessible to authorized users.
 
 ## Common Network Security Mechanisms
-- Firewall (CONTRILL TRAFFIC)
+- Firewall (CONTROL TRAFFIC)
 - Authentication (WEATHER REAL USER ?)
 - Encryption ( ENCRICPT DATA THUS IN CAN'T BE READ.)
 - VPN (PROVIDE ENCRIPTED CONNECTION)
