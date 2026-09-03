@@ -1,10 +1,10 @@
-#ROUTER
+# ROUTER
 
 ## Definition
 A router is  a networking device that connects  different networks 
 and forwords data packets  berween them
 
-##Simple Example
+## Simple Example
 Home network :
 internet ➡️ router ➡️ laptop/phone
 
@@ -14,11 +14,11 @@ internet ➡️ router ➡️ laptop/phone
 - determine where packets should go
 - can provide NAT, DHCP,firewall, and wi-fi features
 
-##Cybersecurity relevence 
+## Cybersecurity relevence 
 routers  are important secutiry pionts 
 because they can control  and
 filter traffic between networks.
 
-##remember
+## remember
 Router = A  device that forwards packets
 between networks.
