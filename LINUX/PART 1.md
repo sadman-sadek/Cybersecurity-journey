@@ -46,5 +46,10 @@
   - we can write logout to exit being that user to our real one or "ctrl d ".
 -  `sudo visudo` - to see who can access my file
     we can edit there who can control howmuch of a file or everything.
+- `addgroup` - to add a new group.
+- `members (group name)` - to see members.
+- `sudo gpasswd -d (member) (groupname) `-to delete member in the group
+- `sudo visudo ` -to edit who can access how much in system.
+- 
         
        
