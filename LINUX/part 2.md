@@ -9,3 +9,5 @@
     we can see all activity in our system. 
 - `systemctl` -stands for systemcontrol.
 - `systemctl status ssh` -powershell status.
+- `ps -u (user name)` -all processes happening of a certain user.
+- `pgrep (name of app) ` -it will fetch the process id that will help to kill it.
