@@ -4,4 +4,8 @@
  - `sudo apt remove (name)` -it will remove specific software.
  - `sudo apt update` - to update changes.
  - `sudo apt install (name)` -to install something.
- - `sudo apt upgrade ` -to upgrade software. 
+ - `sudo apt upgrade ` -to upgrade software.
+ - `ps -aux` -stands for process all user process without controlling ttys.
+    we can see all activity in our system. 
+- `systemctl` -stands for systemcontrol.
+- `systemctl status ssh` -powershell status.
