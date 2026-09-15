@@ -1,0 +1,7 @@
+- `sudo apt edit-sources`
+- `sudo apt -h` -most used commands.
+-  `apt list --installed` -to see installed software.
+ - `sudo apt remove (name)` -it will remove specific software.
+ - `sudo apt update` - to update changes.
+ - `sudo apt install (name)` -to install something.
+ - `sudo apt upgrade ` -to upgrade software. 
