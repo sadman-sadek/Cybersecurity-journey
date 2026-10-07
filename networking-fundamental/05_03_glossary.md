@@ -1,0 +1,32 @@
+# Networking Glossary
+
+- **ACL:** Access Control List; rules controlling traffic or access.
+- **ARP:** IPv4-to-MAC neighbor resolution on a local link.
+- **Bandwidth:** theoretical capacity of a link.
+- **BGP:** major inter-domain routing protocol.
+- **Broadcast:** traffic addressed to all relevant hosts in a broadcast domain.
+- **CIDR:** classless notation for IP prefixes.
+- **DHCP:** dynamic host configuration protocol.
+- **DNS:** distributed naming system.
+- **Ethernet:** widely used Layer-2 LAN technology.
+- **Gateway:** device/interface used to reach another network.
+- **ICMP:** Internet Control Message Protocol.
+- **IP:** Internet Protocol; network-layer addressing and forwarding.
+- **Jitter:** variation in packet delay.
+- **LAN:** local area network.
+- **MAC:** link-layer hardware/interface address.
+- **MTU:** maximum transmission unit.
+- **NAT:** network address translation.
+- **NDP:** IPv6 Neighbor Discovery Protocol.
+- **NTP:** network time protocol.
+- **Packet:** common term for an IP-layer unit.
+- **Port:** transport-layer service endpoint identifier.
+- **Protocol:** agreed communication rules.
+- **Router:** forwards traffic between IP networks.
+- **Segment:** common term for a TCP transport unit.
+- **Subnet:** logical subdivision of an IP address space.
+- **Switch:** forwards Layer-2 frames.
+- **TCP:** connection-oriented reliable byte-stream transport.
+- **UDP:** connectionless datagram transport.
+- **VLAN:** logical Layer-2 segmentation.
+- **WAN:** wide area network.
